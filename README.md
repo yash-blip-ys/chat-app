@@ -30,7 +30,7 @@ npm install
 Create a `.env` file in server folder:
 ```ini
 PORT=4000
-MONGO_URI=mongodb+srv://<password>:YOUR_PASSWORD@cluster0.p3gmjmy.mongodb.net/rn_realtime_chat?retryWrites=true&w=majority
+MONGO_URI=your mongo db string 
 JWT_SECRET=replace_me
 ```
 
